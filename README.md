@@ -5,7 +5,7 @@ Bu repo [Kodluyoruz](https://www.kodluyoruz.org) Front-End Eğitiminde oluşturd
 
 
 # Installation
-Öncelikle projeyi clonelayın. [RESİM??]()
+Öncelikle projeyi clonelayın. [RESİM](https://i.hizliresim.com/pdncjab.png)
 
 ```
 git clone https://github.com/feyyazbegen/kodluyoruzilrepo.git
